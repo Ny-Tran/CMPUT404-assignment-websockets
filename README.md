@@ -59,3 +59,14 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Ny Thi Tran
+
+References 
+========================
+1. Learning how to utilize WebSockets from in class example chat.py and chat.html:
+    * https://github.com/abramhindle/WebSocketsExamples
+    * Date Accessed: March.25.2021
+
+2. Reusing parts of my assignment 4 index.html and server.py
+    * https://github.com/Ny-Tran/CMPUT404-assignment-ajax
+    * Date Accessed: March.25.2021
