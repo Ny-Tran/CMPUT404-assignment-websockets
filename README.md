@@ -67,6 +67,6 @@ References
     * https://github.com/abramhindle/WebSocketsExamples
     * Date Accessed: March.25.2021
 
-2. Reusing parts of my assignment 4 index.html and server.py
+2. Reusing parts of my assignment 4 index.html and server.py:
     * https://github.com/Ny-Tran/CMPUT404-assignment-ajax
     * Date Accessed: March.25.2021
